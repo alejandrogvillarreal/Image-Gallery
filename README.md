@@ -25,7 +25,7 @@ Con la App podremos:
 * [React](https://reactjs.org/docs/getting-started.html)
 * [Redux](https://redux.js.org/basics)
 * [React-Redux](https://github.com/reactjs/react-redux)
-* [React-Saga](https://redux-saga.js.org/)
+* [Redux-Saga](https://redux-saga.js.org/)
 
 ### Rutas Front-End
 
